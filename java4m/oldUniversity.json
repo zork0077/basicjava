@@ -1,0 +1,74 @@
+{
+  "name": "Old University",
+  "SubComponentOfUniversity": [
+    {
+      "name": "122",
+      "SubComponentOfUniversity": [
+        {
+          "name": "20",
+          "SubComponentOfUniversity": [
+            {
+              "name": "1",
+              "SubComponentOfUniversity": [
+                {
+                  "studentId": "001",
+                  "firstName": "Andrii",
+                  "lastName": "Andriiovych",
+                  "middleName": "Andrii",
+                  "sex": "Male"
+                }
+              ],
+              "head": {
+                "headId": "4",
+                "firstName": "Ivan",
+                "lastName": "Ivanov",
+                "middleName": "I",
+                "sex": "Male"
+              }
+            },
+            {
+              "name": "2",
+              "SubComponentOfUniversity": [
+                {
+                  "studentId": "002",
+                  "firstName": "Bohdana",
+                  "lastName": "Bilous",
+                  "middleName": "Bohdan",
+                  "sex": "Female"
+                }
+              ],
+              "head": {
+                "headId": "4",
+                "firstName": "Ivan",
+                "lastName": "Ivanov",
+                "middleName": "I",
+                "sex": "Male"
+              }
+            }
+          ],
+          "head": {
+            "headId": "3",
+            "firstName": "Dmytro",
+            "lastName": "Dovzhenko",
+            "middleName": "D",
+            "sex": "Male"
+          }
+        }
+      ],
+      "head": {
+        "headId": "2",
+        "firstName": "Bohdan",
+        "lastName": "Bilous",
+        "middleName": "B",
+        "sex": "Male"
+      }
+    }
+  ],
+  "head": {
+    "headId": "1",
+    "firstName": "Anastasiia",
+    "lastName": "Andriyivna",
+    "middleName": "A",
+    "sex": "Female"
+  }
+}
